@@ -1,0 +1,51 @@
+/*estilo geral da pagina*/
+
+body {
+     background-color: #f0f0f0; /* cor de fundo */
+      font-family: Arial, sans-serif; /* tipo de fonte */
+      color: #333; /* cor do texto */
+      margin: 0;
+      padding: 0;
+}
+
+/* Cabeçalho */
+
+header {
+    background-color: #004080; /* fundo azul escuro */
+    color: white; /* texto branco */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Títulos principais */
+h1 {
+    font-size: 28px; /* tamanho da fonte */
+    font-weight: bold; /* peso da fonte */
+}
+
+/* Subtítulos */
+h2 {
+    font-size: 22px;
+    color: #004080;
+}
+
+/* Títulos menores */
+h3 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Parágrafos e listas */
+
+p, li {
+    font-size: 16px;
+}
+
+/* Seções do currículo */
+section {
+    margin: 20px;
+    padding: 15px;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+}
