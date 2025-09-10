@@ -1,0 +1,34 @@
+/* Container geral */
+.container {
+    width: 800px;
+    margin: 20px auto;  /* Centraliza a página */
+    font-family: Arial, sans-serif;
+}
+
+/* Box Model aplicado */
+.box {
+    border: 2px solid #2c3e50;  /* borda */
+    padding: 20px;              /* espaço interno */
+    margin-bottom: 20px;        /* espaço externo */
+    border-radius: 10px;        /* cantos arredondados */
+    background-color: #ecf0f1;  /* fundo */
+}
+
+/* Header destacado */
+.header {
+    text-align: center;
+    background-color: #3498db;
+    color: white;
+    border: none;
+}
+
+/* Títulos */
+h2 {
+    margin-top: 0;
+    color: #2c3e50;
+}
+
+h3 {
+    margin-bottom: 5px;
+    color: #34495e;
+}
